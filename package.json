@@ -1,0 +1,19 @@
+{
+  "name": "codepode",
+  "version": "1.0.0",
+  "description": "codepp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalal43/codepode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalal43/codepode/issues"
+  },
+  "homepage": "https://github.com/jalal43/codepode#readme"
+}
